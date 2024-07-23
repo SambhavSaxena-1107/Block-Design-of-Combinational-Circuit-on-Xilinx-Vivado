@@ -1,1 +1,2 @@
 # Block-Design-of-Combinational-Circuit-on-Xilinx-Vivado
+It includes step-by-step instructions and examples to help users create, simulate, and verify combinational circuits such as adders, multiplexers, and logic gates. By leveraging Vivado's intuitive block design environment, this project aims to simplify the process of implementing complex combinational logic and ensure accurate functionality through thorough simulation and verification.
